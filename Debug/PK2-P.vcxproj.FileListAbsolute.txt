@@ -1,0 +1,6 @@
+C:\Users\micha\source\repos\PK2-P\Debug\PK2-P.exe
+C:\Users\micha\source\repos\PK2-P\Debug\PK2-P.pdb
+C:\Users\micha\Desktop\Michał Ślusarczyk\Studies\PK2\Lab\MSsroda1530\PK2-P\Debug\PK2-P.exe
+C:\Users\micha\Desktop\Michał Ślusarczyk\Studies\PK2\Lab\MSsroda1530\PK2-P\Debug\PK2-P.pdb
+C:\Users\micha\Desktop\Michal_Slusarczyk\Studies\PK2\Lab\MSsroda1530\PK2-P\Debug\PK2-P.exe
+C:\Users\micha\Desktop\Michal_Slusarczyk\Studies\PK2\Lab\MSsroda1530\PK2-P\Debug\PK2-P.pdb

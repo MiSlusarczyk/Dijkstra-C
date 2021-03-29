@@ -1,0 +1,10 @@
+﻿  Functions.c
+  Lists.c
+C:\Users\micha\Desktop\Michal_Slusarczyk\Studies\PK2\Lab\MSsroda1530\PK2-P\Lists.c(139,14): warning C4047: 'return': 'char' differs in levels of indirection from 'void *'
+  Source.c
+C:\Users\micha\Desktop\Michal_Slusarczyk\Studies\PK2\Lab\MSsroda1530\PK2-P\Source.c(43,21): warning C4090: '=': different 'const' qualifiers
+C:\Users\micha\Desktop\Michal_Slusarczyk\Studies\PK2\Lab\MSsroda1530\PK2-P\Source.c(47,23): warning C4090: '=': different 'const' qualifiers
+C:\Users\micha\Desktop\Michal_Slusarczyk\Studies\PK2\Lab\MSsroda1530\PK2-P\Source.c(51,23): warning C4090: '=': different 'const' qualifiers
+C:\Users\micha\Desktop\Michal_Slusarczyk\Studies\PK2\Lab\MSsroda1530\PK2-P\Source.c(55,39): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  Generating Code...
+  PK2-P.vcxproj -> C:\Users\micha\Desktop\Michal_Slusarczyk\Studies\PK2\Lab\MSsroda1530\PK2-P\Debug\PK2-P.exe
